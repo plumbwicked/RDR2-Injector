@@ -1,6 +1,6 @@
-# SirMestre RDR2 LittleInjector
+# plumbwicked RDR2 Injector
 
-* **SirMestre** - [SirMestre](https://github.com/SirMestre)
+https://github.com/plumbwicked
 
 ## Getting Started
 
@@ -12,7 +12,7 @@
 * [MahApps](https://mahapps.com/) - MahApps.Metro is a project that Paul Jenkins started back in 2011 as a simple way to bring a Metro-style user interface into your WPF application. 
 
 ## Credits
-
+- SirMestre 
 - device9999
 - Revan600
 - Kiddion
