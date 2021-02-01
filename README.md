@@ -1,5 +1,8 @@
 # plumbwicked RDR2 Injector
 
+![demo](https://prnt.sc/xy94ui)
+
+
 https://github.com/plumbwicked
 
 ## Getting Started
