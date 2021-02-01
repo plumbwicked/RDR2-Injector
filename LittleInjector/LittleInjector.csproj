@@ -132,5 +132,8 @@
   <ItemGroup>
     <Resource Include="sirmestre.ico" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="index.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

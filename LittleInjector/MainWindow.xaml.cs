@@ -26,11 +26,11 @@ namespace LittleInjector
         public MainWindow()
         {
             InitializeComponent();
-            AllowsTransparency = true;
+            AllowsTransparency = false;
             Background = new SolidColorBrush(Colors.Transparent);
             ShowTitleBar = false;
-            ShowCloseButton = false;
-            ShowMinButton = false;
+            ShowCloseButton = true;
+            ShowMinButton = true;
             ShowMaxRestoreButton = false;
             MouseDown += MainWindow_MouseDown;
         }
